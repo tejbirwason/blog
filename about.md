@@ -1,15 +1,21 @@
 ---
 layout: page
-title: About
+title:
 permalink: /about/
 ---
 
-Some information about you!
+![]({{ site.baseurl }}/images/nusa_penida.png)
 
-### More Information
+Hi, I'm Tj.
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a software consultant based out of Vancouver and San Francisco.
 
-### Contact me
+I've been in the game for 6 years now. I’ve worked for multi-thousand employees public listed companies, small startups, and everything in between.
 
-[email@domain.com](mailto:email@domain.com)
+My last job was at SAP helping build their flagship analytics product in Vancouver, Canada.
+
+Currently I consult for a startup in San Diego called [Up n' go](https://www.upngo.com/]).
+
+Here are some [buzzwords](https://www.tejbirwason.com) that might make you want to hire me.
+
+Have a good day!
