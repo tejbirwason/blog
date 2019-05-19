@@ -1,0 +1,12 @@
+---
+layout: post
+title: Gloomy days
+---
+
+Initially, the Bay Area was a continuum from sunny South East Asia. Every day was perfect weather with sunny blue skies. But over the past couple of days, it’s been consistently gloomy. This got me thinking about the effect of sunlight on my psyche. After this trip, I’ve become a little more sensitive to my general well being. When the weather is bad, I notice that I do not operate at my best.
+
+One or two gloomy days are easy to handle. But when those days turn into weeks, it has a direct negative impact on my daily routine. Once stuck in that rut, it takes a lot of energy to break it. The world of business that I’m venturing into, is an always-on 24/7 hustle world, so being in a rut is a major disadvantage. In business, you crash and burn often so you have the reserve to push through and attempt again. Building something out of nothing requires a level of optimism that must run deep in your psyche. Those empowering thoughts emerge only when my basic physiological needs are met. Never when I’m tired, hungry or otherwise moody.
+
+I realize that there is a level of an operator beyond this. One that looks at bad days hurdles rather than roadblocks, waiting to be overcome. One who looks sees an opportunity to get ahead of the competition, as the competition is snoozing on these sort of days. But I am not at that level yet. That sort of competitive drive is an elite athlete and operator’s mindset. I think calling myself out is a good indicator that I realize that I have not reached my potential. 
+
+Looking back and learning from your mistakes is essential. Some call it stuck in the past, but I would rather prefer calling it practical introspection. Vancouver gets very dull and wet in winters. It’s hard getting out of a rut that begins in November and lasts till summer comes to the rescue around May. It’s a depressing time of the year and everyone around you feels it. Given an opportunity to escape winter, why would you not? It’s clear that one needs to introduce a certain amount of suffering in your life, but how about let that suffering be in the form of a new business challenge, not suffering that comes from denying the basic physiological need for daily sunlight. If given the chance, I’d rather not spend winters in Canada, I’d rather push to start that new project or launch that new business. This is the business world, it’s global. Your competition might be in a sunny place, both physically and mentally. Do not let that be their competitive edge.
